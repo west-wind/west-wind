@@ -33,8 +33,3 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 href="https://medium.com/@subtlystoic" target="_blank"><img alt="Medium" 
 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
 </p>
-<p align="center">
-<br>
-<text>Insert something profound here. Nothing comes to mind, let's commit!</text>
-</p>
-<br>
