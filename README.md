@@ -1,6 +1,6 @@
 <h1 align = "center"> Hey folks, my name is Alex John B  </h1>
 
-I'm a Sr. Cloud Security Analyst living in sunny <b>Abu Dhabi</b>. Blue teamer by day, automation junkie by night & aviation enthusiast by later night.
+I'm a Sr. Cloud Security Analyst. Blue teamer by day, automation junkie by night & aviation enthusiast by later night.
 
 <h3>Check out my recent blog post(s)</h3>
 <ul>
