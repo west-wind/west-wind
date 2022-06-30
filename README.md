@@ -7,7 +7,7 @@ I'm a Sr. Cloud Security Analyst. Blue teamer by day, automation junkie by night
   <li><a href="https://subtlystoic.medium.com/detecting-and-responding-to-spring4shell-with-splunk-89ade99f35fb"><b>Detecting and Responding to Spring4Shell with Splunk</b></a>
 </ul>
 <ul>
-  <li><a href="https://subtlystoic.medium.com/hermeticwiper-hermetica-digital-ltd-your-friendly-neighbourhood-wipe-r-part-1-dbca32b9eb12"><b>HermeticWiper — Hermetica Digital Ltd. your friendly neighbourhood wiper - part 1</b></a>
+  <li><a href="https://subtlystoic.medium.com/hermeticwiper-hermetica-digital-ltd-your-friendly-neighbourhood-wipe-r-part-1-dbca32b9eb12"><b>HermeticWiper — Hermetica Digital Ltd. your friendly neighbourhood wiper</b></a>
 </ul>
 <h3>📄 Favorite Languages:</h3>
 <p>
