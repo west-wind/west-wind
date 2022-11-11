@@ -11,7 +11,9 @@ I'm a Sr. Cloud Security Analyst. Blue teamer by day, automation junkie by night
 </ul>
 <h3>📄 Favorite Languages:</h3>
 <p>
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a> 
+<a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a target="_blank"><img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 </p>
 <h3>⚒ Tools I use:</h3>
 <p>
@@ -25,8 +27,8 @@ I'm a Sr. Cloud Security Analyst. Blue teamer by day, automation junkie by night
 <h3 align="center">Find me on</h3>
 <p align="center"><a 
 href="https://github.com/west-wind" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://twitter.com/Praetorian_GRD" target="_blank"><img alt="Twitter" 
+src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/Praetorian_GRD" target="_blank"><img alt="Twitter" 
 src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> <a 
 href="https://www.linkedin.com/in/alexsean" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
