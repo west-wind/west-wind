@@ -1,4 +1,4 @@
-<h1 align="center"> Hey folks, my name is Alex John B </h1> I'm a Sr. Cloud Security Analyst. Blue teamer by day, automation junkie by night & aviation enthusiast by later night. <h3>Check out my recent blog post(s)</h3>
+<h1 align="center"> Hey folks, my name is Alex John B </h1> I'm a Detection & Response Engineer. I speak YARA, SPL, SQL, & Suricata. Blue teamer by day, automation junkie by night & aviation enthusiast by later night. <h3>Check out my recent blog post(s)</h3>
 <ul>
   <li>
     <a href="https://subtlystoic.medium.com/detecting-and-responding-to-spring4shell-with-splunk-89ade99f35fb">
