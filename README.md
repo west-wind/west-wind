@@ -1,6 +1,12 @@
 <h1 align="center"> Hiya folks, I'm Alex! </h1> I'm a Detection & Response Engineer. I speak YARA, SPL, SQL, & Suricata. Blue teamer by day, automation junkie by night & aviation enthusiast by later night. <h3>Check out my recent blog post(s)</h3>
 <ul>
   <li>
+    <a href="https://medium.com/@subtlystoic/get-92-on-the-giac-grem-exam-ab9f0ffc20a3">
+      <b>How I managed to get 92% on the GIAC GREM CyberLive exam!</b>
+    </a>
+</ul>
+<ul>
+  <li>
     <a href="https://subtlystoic.medium.com/detecting-and-responding-to-spring4shell-with-splunk-89ade99f35fb">
       <b>Detecting and Responding to Spring4Shell with Splunk</b>
     </a>
