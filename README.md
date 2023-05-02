@@ -17,12 +17,6 @@
       <b>Detecting and Responding to Spring4Shell with Splunk</b>
     </a>
 </ul>
-<ul>
-  <li>
-    <a href="https://subtlystoic.medium.com/hermeticwiper-hermetica-digital-ltd-your-friendly-neighbourhood-wipe-r-part-1-dbca32b9eb12">
-      <b>HermeticWiper — Hermetica Digital Ltd. your friendly neighbourhood wiper</b>
-    </a>
-</ul>
 <h3  align="center">Languages</h3>
 <p align="center">
   <a target="_blank">
