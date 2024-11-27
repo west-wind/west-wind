@@ -55,12 +55,6 @@
   <a href="https://github.com/west-wind" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/Praetorian_GRD" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexsean" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />
-  </a>
   <a href="https://medium.com/@subtlystoic" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
