@@ -1,4 +1,10 @@
-<h1 align="center"> Hiya folks, I'm Alex! </h1> I'm a Detection & Response Engineer. I speak YARA, SPL, SQL, & Suricata. Blue teamer by day, automation junkie by night & aviation enthusiast by later night. <h3>Check out my recent blog post(s)</h3>
+<h1 align="center"> Hiya folks, I'm Alex! </h1> I'm a cyber firefighter. I speak YARA, SPL, SQL, & Suricata. Blue teamer by day, automation junkie by night & aviation enthusiast by later night. <h3>Check out my recent blog post(s)</h3>
+<ul>
+  <li>
+    <a href="https://subtlystoic.medium.com/adrift-in-the-cloud-a-forensic-dive-into-container-drift-f29524f4f6c4">
+      <b>Adrift in the Cloud: A Forensic Dive into Container Drift</b>
+    </a>
+</ul>
 <ul>
   <li>
     <a href="https://subtlystoic.medium.com/detecting-and-responding-to-esxi-compromise-with-splunk-f33998ce7823">
@@ -9,12 +15,6 @@
   <li>
     <a href="https://medium.com/@subtlystoic/get-92-on-the-giac-grem-exam-ab9f0ffc20a3">
       <b>How I managed to get 92% on the GIAC GREM CyberLive exam!</b>
-    </a>
-</ul>
-<ul>
-  <li>
-    <a href="https://subtlystoic.medium.com/detecting-and-responding-to-spring4shell-with-splunk-89ade99f35fb">
-      <b>Detecting and Responding to Spring4Shell with Splunk</b>
     </a>
 </ul>
 <h3  align="center">Languages</h3>
@@ -29,14 +29,8 @@
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   </a>
 </p>
-<h3 align="center">ToolStack</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
-  <a target="_blank">
-    <img alt="VAGRANT" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" />
-  </a>
-  <a target="_blank">
-    <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
-  </a>
   <a target="_blank">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue" />
   </a>
@@ -52,11 +46,11 @@
 </p>
 <h3 align="center">Find me on</h3>
 <p align="center">
-  <a href="https://github.com/west-wind" target="_blank">
+  <a href="https://github.com/west-wind">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://medium.com/@subtlystoic" target="_blank">
+  <a href="https://medium.com/@subtlystoic">
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <br>
-  <a </p>
+</p>
