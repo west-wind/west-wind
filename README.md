@@ -17,6 +17,13 @@
       <b>How I managed to get 92% on the GIAC GREM CyberLive exam!</b>
     </a>
 </ul>
+<h3>Check out my most recent PR</h3>
+<ul>
+  <li>
+    <a href="https://github.com/google/container-explorer/pull/22">
+      <b>Adding container drift detection to Google's Container Explorer</b>
+    </a>
+</ul>
 <h3  align="center">Languages</h3>
 <p align="center">
   <a target="_blank">
@@ -51,6 +58,9 @@
   </a>
   <a href="https://medium.com/@subtlystoic">
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/alexsean" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
   <br>
 </p>
